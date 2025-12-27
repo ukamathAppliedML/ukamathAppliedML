@@ -16,60 +16,20 @@ I serve on the **Board of Advisors** for commercial companies and academic insti
 
 ---
 
-## Published Books
+## 📚 Published Books
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://www.amazon.com/dp/B0DGP8DLR6">
-        <img src="https://m.media-amazon.com/images/I/71Kd+xIxuvL._SY425_.jpg" width="120" alt="Large Language Models"/>
-        <br><strong>Large Language Models</strong>
-        <br><em>A Deep Dive (2024)</em>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://www.amazon.com/dp/1633439194">
-        <img src="https://m.media-amazon.com/images/I/61YejnUbkFL._SY425_.jpg" width="120" alt="Applied Causal Inference"/>
-        <br><strong>Applied Causal Inference</strong>
-        <br><em>(2024)</em>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://www.amazon.com/dp/1032258047">
-        <img src="https://m.media-amazon.com/images/I/612E+mXdC7L._SY425_.jpg" width="120" alt="Explainable AI"/>
-        <br><strong>Explainable Artificial Intelligence</strong>
-        <br><em>(2023)</em>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://www.amazon.com/dp/0367767600">
-        <img src="https://m.media-amazon.com/images/I/51yYPz3TRZL._SY425_.jpg" width="120" alt="Transformers"/>
-        <br><strong>Transformers for Machine Learning</strong>
-        <br><em>A Deep Dive (2022)</em>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://www.amazon.com/dp/3030145956">
-        <img src="https://m.media-amazon.com/images/I/51FGn8QFCRL._SY425_.jpg" width="120" alt="Deep Learning NLP"/>
-        <br><strong>Deep Learning for NLP and Speech Recognition</strong>
-        <br><em>(2019)</em>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://www.amazon.com/dp/1785880519">
-        <img src="https://m.media-amazon.com/images/I/61ZfijsLtjL._SY425_.jpg" width="120" alt="Mastering Java ML"/>
-        <br><strong>Mastering Java Machine Learning</strong>
-        <br><em>(2017)</em>
-      </a>
-    </td>
-  </tr>
-</table>
+| Cover | Book | Year | Links |
+|:-----:|------|:----:|-------|
+| 📘 | **Large Language Models: A Deep Dive** <br> Bridging Theory and Practice | 2024 | [Amazon](https://www.amazon.com/dp/3031656466) |
+| 📗 | **Applied Causal Inference** <br> *with Mitchell Naylor & Kenneth Graham* | 2023 | [Amazon](https://www.amazon.com/dp/B0CKQ5QT8V) |
+| 📕 | **Transformers for Machine Learning: A Deep Dive** <br> *with Kenneth Graham & Wael Emara* | 2022 | [Amazon](https://www.amazon.com/dp/0367767341) |
+| 📙 | **Explainable Artificial Intelligence** <br> An Introduction to Interpretable Machine Learning | 2021 | [Amazon](https://www.amazon.com/dp/3030833585) |
+| 📓 | **Deep Learning for NLP and Speech Recognition** <br> *with John Liu & James Whitaker* | 2019 | [Amazon](https://www.amazon.com/dp/3030145956) |
+| 📔 | **Mastering Java Machine Learning** <br> *with Krishna Choppella* | 2017 | [Amazon](https://www.amazon.com/dp/1785880519) |
 
 <p align="center">
   <a href="https://www.amazon.com/stores/Dr.-Uday-Kamath/author/B07DM32CQ3">
-    <img src="https://img.shields.io/badge/📖_View_All_Books_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="All Books"/>
+    <img src="https://img.shields.io/badge/📚_View_All_Books_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="All Books"/>
   </a>
 </p>
 

@@ -20,7 +20,7 @@ I serve on the **Board of Advisors** for commercial companies and academic insti
 
 | Cover | Book | Year | Links |
 |:-----:|------|:----:|-------|
-| 📘 | **Large Language Models: A Deep Dive** <br> Bridging Theory and Practice | 2024 | [Amazon](https://www.amazon.com/dp/3031656466) |
+| 📘 | **Large Language Models: A Deep Dive** <br>  *with Kevin Keenan, Garrett Somers & Sarah Sorenson* | 2024 | [Amazon](https://www.amazon.com/dp/3031656466) |
 | 📗 | **Applied Causal Inference** <br> *with Mitchell Naylor & Kenneth Graham* | 2023 | [Amazon](https://www.amazon.com/dp/B0CKQ5QT8V) |
 | 📕 | **Transformers for Machine Learning: A Deep Dive** <br> *with Kenneth Graham & Wael Emara* | 2022 | [Amazon](https://www.amazon.com/dp/0367767341) |
 | 📙 | **Explainable Artificial Intelligence** <br> An Introduction to Interpretable Machine Learning | 2021 | [Amazon](https://www.amazon.com/dp/3030833585) |
